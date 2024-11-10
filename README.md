@@ -1,5 +1,7 @@
 ## 积极分子刷课脚本
 
+# 借助ScriptCat实现
+
 原作者：https://scriptcat.org/zh-CN/script-show-page/707/code
 
 1.4更新cookie识别提醒,网页静音,每章学习过后下一章提醒
